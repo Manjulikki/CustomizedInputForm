@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>
+    <color name="colorPrimaryDark">#FFA500</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="formBackground">#FFFFF0</color>
+    <color name="photoBackground">#d3d3d3</color>
+    <color name="red">#FF0000</color>
+</resources>

@@ -1,0 +1,108 @@
+{
+  "input": [
+    [
+      {
+        "type": "PHOTO",
+        "id": "photo1",
+        "tittle": "tittle 1",
+        "dataMap": {}
+      },
+      {
+        "type": "SINGLE_CHOICE",
+        "id": "choice1",
+        "tittle": "photo 1 choice",
+        "dataMap": {
+          "models": [
+            "Good",
+            "Ok",
+            "Bad"
+          ]
+        }
+      },
+      {
+        "type": "COMMENT",
+        "id": "comment1",
+        "tittle": "photo 1 comment",
+        "dataMap": {}
+      }
+    ],
+    [
+      {
+        "type": "PHOTO",
+        "id": "photo2",
+        "tittle": "tittle 2",
+        "dataMap": {}
+      },
+      {
+        "type": "SINGLE_CHOICE",
+        "id": "choice2",
+        "tittle": "photo 2 choice",
+        "dataMap": {
+          "models": [
+            "Good",
+            "Ok",
+            "Bad"
+          ]
+        }
+      },
+      {
+        "type": "COMMENT",
+        "id": "comment2",
+        "tittle": "photo 2 comment",
+        "dataMap": {}
+      }
+    ],
+    [
+      {
+        "type": "PHOTO",
+        "id": "photo3",
+        "tittle": "tittle 3",
+        "dataMap": {}
+      },
+      {
+        "type": "SINGLE_CHOICE",
+        "id": "choice3",
+        "tittle": "photo 3 choice",
+        "dataMap": {
+          "models": [
+            "Good",
+            "Ok",
+            "Bad"
+          ]
+        }
+      },
+      {
+        "type": "COMMENT",
+        "id": "comment3",
+        "tittle": "photo 3 comment",
+        "dataMap": {}
+      }
+    ],
+    [
+      {
+        "type": "PHOTO",
+        "id": "photo4",
+        "tittle": "tittle 4",
+        "dataMap": {}
+      },
+      {
+        "type": "SINGLE_CHOICE",
+        "id": "choice4",
+        "tittle": "photo 4 choice",
+        "dataMap": {
+          "models": [
+            "Good",
+            "Ok",
+            "Bad"
+          ]
+        }
+      },
+      {
+        "type": "COMMENT",
+        "id": "comment4",
+        "tittle": "photo 4 comment",
+        "dataMap": {}
+      }
+    ]
+  ]
+}
